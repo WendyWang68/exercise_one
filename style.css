@@ -141,3 +141,8 @@ header nav a:last-of-type {
     position: absolute;
     width: 80px;
 }
+
+.javascript-wrapper {
+    background-color: beige;
+    padding: 40px 20px;
+}
